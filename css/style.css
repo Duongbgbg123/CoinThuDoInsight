@@ -1,0 +1,148 @@
+
+/* Phần tử | http://127.0.0.1:5500/index.html?# */
+
+.navbar-brand {
+    padding-left: 129px;
+  }
+  
+/* Phần tử | http://127.0.0.1:5500/index.html?# */
+
+.container-fluid > img:nth-child(1) {
+    max-width: 95px;
+  }
+  
+  /* Phần tử | http://127.0.0.1:5500/index.html?# */
+  
+  .navbar-brand {
+    padding-left: 0px;
+  }
+
+
+/* Phần tử | http://127.0.0.1:5500/index.html?# */
+
+#navbarSupportedContent {
+    font-size: 24px;
+    padding-left: 73px;
+    padding-right: 40px;
+  }
+  
+  /* Phần tử | http://127.0.0.1:5500/index.html?# */
+  
+  .active {
+    box-sizing: ;
+    display: flex;
+    padding-right: 40px;
+  }
+  
+  /* Phần tử | http://127.0.0.1:5500/index.html?# */
+  
+  li.nav-item:nth-child(2) > a:nth-child(1) {
+    padding-right: 40px;
+  }
+  
+  /* Phần tử | http://127.0.0.1:5500/index.html?# */
+  
+  #navbarDropdown {
+    padding-right: 40px;
+  }
+  
+  /* Phần tử | http://127.0.0.1:5500/index.html?# */
+  
+  li.nav-item:nth-child(4) {
+    /* padding-right: \\; */
+    padding-right: ;
+  }
+  
+
+/* style.css | http://127.0.0.1:5500/css/style.css */
+
+li.nav-item:nth-child(2) > a:nth-child(1) {
+    /* padding-right: 40px; */
+    padding-left: 40px;
+  }
+  
+  #navbarDropdown {
+    /* padding-right: 40px; */
+    padding-left: 40px;
+  }
+  
+  /* Phần tử | http://127.0.0.1:5500/index.html?# */
+  
+  li.nav-item:nth-child(4) {
+    padding-left: 40px;
+  }
+  
+  
+/* style.css | http://127.0.0.1:5500/css/style.css */
+
+li.nav-item:nth-child(2) > a:nth-child(1) {
+    /* padding-left: 40px; */
+    padding-left: 72px;
+  }
+  
+  li.nav-item:nth-child(4) {
+    /* padding-left: 40px; */
+    padding-left: 21px;
+  }
+  
+
+/* bootstrap.min.css | http://127.0.0.1:5500/css/bootstrap.min.css */
+
+body {
+    /* font-weight: 400; */
+    font-weight: 700;
+  }
+  
+  /* Phần tử | http://127.0.0.1:5500/index.html?# */
+  
+  .d-flex {
+    padding-right: ;
+    padding-left: 35px;
+  }
+  
+
+/* Phần tử | http://127.0.0.1:5500/index.html */
+
+div.carousel-item:nth-child(1) > img:nth-child(1) {
+    padding-left: 48px;
+  }
+  
+  /* Phần tử | http://127.0.0.1:5500/index.html */
+  
+  div.carousel-item:nth-child(2) > img:nth-child(1) {
+    padding-left: 48px;
+  }
+  
+  /* Phần tử | http://127.0.0.1:5500/index.html */
+  
+  div.carousel-item:nth-child(3) > img:nth-child(1) {
+    padding-left: 48px;
+  }
+  
+
+/* Phần tử | http://127.0.0.1:5500/index.html */
+
+.card-group {
+    padding-left: 47px;
+    padding-right: 39px;
+    padding-top: 100px;
+  }
+
+
+/* Phần tử | http://127.0.0.1:5500/index.html */
+
+.carousel-inner {
+    padding-top: 21px;
+  }
+
+/* Phần tử | http://127.0.0.1:5500/index.html */
+
+.container {
+    max-width: 100%;
+    padding-left: 45px;
+  }
+  
+  /* Phần tử | http://127.0.0.1:5500/index.html */
+  
+
+    
